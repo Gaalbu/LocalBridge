@@ -14,6 +14,8 @@ O aplicativo não requer hospedagem, banco, domínio ou API paga. GitHub públic
 
 Não use `flutter pub upgrade --major-versions` sem revisar breaking changes e suporte mínimo de Android/Linux.
 
+O Dependabot ignora upgrades major de pacotes Flutter. Eles devem ser feitos manualmente, um por vez. `receive_sharing_intent` permanece abaixo de 1.9.0 enquanto o Flutter estável usado pelo projeto compilar com Android SDK 36; remova essa exceção somente depois de migrar e validar com SDK 37 ou superior.
+
 ## Release
 
 1. Atualize `version` em `pubspec.yaml` (`semver+build`).
