@@ -102,7 +102,7 @@ Zeroconf/mDNS -> handshake de metadados -> aceite do usuário
              -> upload binário em stream -> validação -> arquivo final
 ```
 
-O protocolo está em `lib/data/network`, os casos de uso e estado em `lib/application`, as entidades em `lib/domain` e a interface em `lib/presentation`. A descrição completa está em [ARCHITECTURE.md](docs/ARCHITECTURE.md).
+O protocolo está em `lib/data/network`, os casos de uso e estado em `lib/application`, as entidades em `lib/domain` e a interface em `lib/presentation`. As camadas estão descritas em [ARCHITECTURE.md](docs/ARCHITECTURE.md), e o fluxo de rede e o modelo de confiança estão em [protocol.md](docs/protocol.md).
 
 ## Segurança e privacidade
 
