@@ -127,4 +127,4 @@ Contribuições seguem Conventional Commits e passam por format, analyze e test.
 
 ## Licença
 
-MIT — consulte [LICENSE](LICENSE).
+MIT, consulte [LICENSE](LICENSE).
