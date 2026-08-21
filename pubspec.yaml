@@ -38,7 +38,7 @@ dependencies:
   shelf: ^1.4.2
   shelf_router: ^1.1.4
   http: ^1.6.0
-  bonsoir: ^7.1.4
+  bonsoir: ^7.1.5
   file_picker: ^10.3.10
   path_provider: ^2.1.5
   shared_preferences: ^2.5.3
