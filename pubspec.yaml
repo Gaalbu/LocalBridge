@@ -38,14 +38,14 @@ dependencies:
   shelf: ^1.4.2
   shelf_router: ^1.1.4
   http: ^1.6.0
-  bonsoir: ^7.1.4
+  bonsoir: ^7.1.5
   file_picker: ^10.3.10
   path_provider: ^2.1.5
   shared_preferences: ^2.5.3
   device_info_plus: ^12.3.0
   uuid: ^4.5.2
   path: ^1.9.1
-  mime: ^2.0.0
+  mime: ^2.1.0
   crypto: ^3.0.7
   desktop_drop: ^0.7.1
   receive_sharing_intent: 1.8.1
